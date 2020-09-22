@@ -1,4 +1,4 @@
 # xm530ai_ipcam
-Board: IVG-85X20PT-S
+Board: IVG-85X20PT-S -> http://www.xiongmaitech.com/en/index.php/product/product-detail/185/187/387
 
-Firmware will be build with SDK.
+filesystem.img was build with SDK, camera is not operational.
