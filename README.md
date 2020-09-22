@@ -5,3 +5,8 @@ https://github.com/moykky/xm530ai_ipcam/blob/master/IVG-85X20PT-S.pdf      Engli
 https://github.com/moykky/xm530ai_ipcam/blob/master/IVG-85X20PT-S-CN.pdf   Chinese version including missing header descriptions
 
 UPLOADING SOON: filesystem.img was build with SDK, camera is not operational. Just plain filesystem.
+
+
+What has been done:
+- build a firmware
+- cross compiled busybox with more applets
